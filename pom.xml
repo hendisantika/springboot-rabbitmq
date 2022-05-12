@@ -10,6 +10,7 @@
 
     <modules>
         <module>springboot-rabbitmq-producer</module>
+        <module>springboot-rabbitmq-consumer</module>
     </modules>
 
 </project>
